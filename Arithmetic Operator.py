@@ -1,0 +1,9 @@
+a=int(input())
+b=int(input())
+s=a+b
+sub=a-b
+mul=a*b
+div=a/b
+ex=a**b
+mod=a%b
+floor=a//b
