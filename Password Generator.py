@@ -11,4 +11,5 @@ if __name__=="__main__":
 	s.extend(list(s3))
 	s.extend(list(s4))
 	random.shuffle(s)
-	print("".join(s[0:12]))
+	leng=int(intput("Enter the length of your password: ")
+	print("".join(s[0:leng]))
