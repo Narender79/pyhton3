@@ -1,0 +1,5 @@
+vari=str(input("enter the value with space: "))
+list=vari.split(",")
+tuple=tuple(list)
+print("list:",list)
+print("tuple:",tuple)
